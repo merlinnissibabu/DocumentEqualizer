@@ -1,4 +1,5 @@
 ##DOC EQUALIZER
+
 This is a python package which can be used to equalize the number of pages of the input PDF.
 
 Make sure your python version is >= 3.6 
